@@ -10,7 +10,7 @@ This repository contains my solutions for the problem sets in the CS50-SQL cours
 - [x] **Week 1 : [Relating](https://cs50.harvard.edu/sql/2023/psets/1/)**
   - [x] [Packages](/1-%20Relating/packages)
   - [x] [DESE](/1-%20Relating/dese)
-  - [ ] [Moneyball](/1-%20Relating/moneyball)
+  - [x] [Moneyball](/1-%20Relating/moneyball)
      
 - [ ] **Week 2 : [Designing](https://cs50.harvard.edu/sql/2023/psets/2/)**
   - [ ] [ATL](/2-%20Designing/atl)
