@@ -19,7 +19,7 @@ This repository contains my solutions for the problem sets in the CS50-SQL cours
 
 - [x] **Week 3 : [Writing](https://cs50.harvard.edu/sql/2023/psets/3/)**
   - [x] [Don’t Panic!](/3-%20Writing/dont-panic)
-  - [ ] [Meteorite Cleaning](/3-%20Writing/meteorites)
+  - [x] [Meteorite Cleaning](/3-%20Writing/meteorites)
 
 - [ ] **Week 4 : [Viewing](https://cs50.harvard.edu/sql/2023/psets/4/)**
   - [ ] [Census Taker](/4-%20Viewing/Census%20Taker)
