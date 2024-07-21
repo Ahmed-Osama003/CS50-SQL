@@ -27,7 +27,7 @@ This repository contains my solutions for the problem sets in the CS50-SQL cours
   - [x] [Bed and Breakfast](/4-%20Viewing/Bed%20and%20Breakfast)
 
 - [x] **Week 5 : [Optimizing](https://cs50.harvard.edu/sql/2023/psets/5/)**
-  - [ ] [your.harvard](/5-%20Optimizing/your.harvard)
+  - [x] [your.harvard](/5-%20Optimizing/your.harvard)
   - [x] [snap](/5-%20Optimizing/snap)
 - [ ] **Week 6 : [Scaling](https://cs50.harvard.edu/sql/2023/psets/6/)**
   - [ ] [Happy to Connect](/6-%20Scaling/Happy%20to%20Connect)
